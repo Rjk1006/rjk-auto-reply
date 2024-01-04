@@ -1,8 +1,7 @@
-# yu-auto-reply 自动回复
+# rjk-auto-reply 自动回复
 
-> 作者：[程序员鱼皮](https://github.com/liyupi)
+> 作者：[努力就对了](https://github.com/RJK1006)
 > 
-> 编程学习圈：[编程导航知识星球](https://yupi.icu)
 
 [toc]
 
